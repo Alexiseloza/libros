@@ -1,0 +1,39 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "Java",
+      "precio": "38"
+    },
+    {
+      "id": 2,
+      "nombre": "Photoshop CS",
+      "precio": "155"
+    },
+    {
+      "id": 3,
+      "nombre": "Understanding JAVA",
+      "precio": 68
+    },
+    {
+      "id": 4,
+      "nombre": "Redux Hooks ",
+      "precio": "211"
+    },
+    {
+      "id": 7,
+      "nombre": "Fast JavaScript",
+      "precio": "45"
+    },
+    {
+      "id": 9,
+      "nombre": "PHP advance",
+      "precio": "44"
+    },
+    {
+      "id": 10,
+      "nombre": "PHP Laravel",
+      "precio": "121"
+    }
+  ]
+}
